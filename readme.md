@@ -1,5 +1,10 @@
 # Image Anomaly Detection with Convolutional Autoencoder
 
+- Author: Andrés C. Meneguzzo
+- Email: andres.meneguzzo@gmail.com
+- Phone: +39 344-289-6968
+- Linkedin: https://www.linkedin.com/in/andr%C3%A9s-christian-meneguzzo-12b00631b/
+
 Machine learning project to explore and learn about **unsupervised anomaly detection** for images and how to apply **Convolutional Autoencoder** on the **MVTec AD** dataset. My system learns to reconstruct "normal" samples and measures reconstruction errors to detect anomalies.
 
 ## Project Summary
@@ -29,9 +34,3 @@ Machine learning project to explore and learn about **unsupervised anomaly detec
 - Youden J and Recall constraints to tune Threshold
 - Extensive visualization with heatmap plots and original vs. reconstructed plots
 - Ensemble scoring strategy to best evaluate the model
-
-## About me
-- Author: Andrés C. Meneguzzo
-- Email: andres.meneguzzo@gmail.com
-- Phone: +39 344-289-6968
-- Linkedin: https://www.linkedin.com/in/andr%C3%A9s-christian-meneguzzo-12b00631b/
